@@ -72,5 +72,7 @@
 <br/>
 <br/>
 
+### 📊 GitHub Stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=leparpineli&theme=sakura-x&locale=pt_BR)](https://git.io/streak-stats)
 
